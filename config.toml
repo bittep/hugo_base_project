@@ -2,3 +2,15 @@ baseURL = 'https://bittep.com/'
 languageCode = 'en-us'
 title = 'BITTEP'
 theme = 'newsroom'
+canonifyurls = true
+paginate = 6
+
+
+
+[params]
+locale = "en_US"
+  # ga_analytics = "" # google analytics ID e.g UA-116386578-1
+  # ga_verify = "" # google verification code e.g 5jb-rxeBfITeJQKOuUss3ud6FPGTxXkCho-ZN5qlrZg
+twitter = "bittep_com" # twitter handle e.g @weru
+  # mainSections = ["blog", "docs"] see https://gohugo.io/functions/where/#mainsections
+  # uncomment the line below will disable darkmode by default.

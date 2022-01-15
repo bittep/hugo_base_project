@@ -1,0 +1,8 @@
+- item: Episodes
+  url: episodes
+- item: Category
+  url: categories
+- item: About
+  url: about/
+- item: Tag
+  url: tags
