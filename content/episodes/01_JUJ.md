@@ -8,13 +8,18 @@ video = "GyWyikB2hF"
 +++
 
 # Píldora 01
+
 > breve y al grano!
 
+* Item 1
+* Item 2
+  + Item 2a
+  + Item 2b
 
-+ Desde Github Trends:
- + TandoorRecipes
- + Rancher-sandbox
- + GitHub Actions Runner
++ GitHub trends:
+  + TandoorRecipes
+  + Rancher-sandbox
+  + GitHub Actions Runner
 
 <!--more-->
 
