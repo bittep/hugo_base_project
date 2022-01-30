@@ -1,6 +1,6 @@
 +++
 author = "Anibal Aguila"
-title = "Píldora 01"
+title = "Podcast 01"
 date = "2022-01-31"
 description = "Wakeup"
 tags = ['k8s','rancher-desktop','food','github-actions','self-study','documental']
