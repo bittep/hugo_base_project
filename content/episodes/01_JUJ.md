@@ -60,3 +60,10 @@ https://youtu.be/BE77h7dmoQU
 
 ---
 
+### Publicado también en:
+
+https://open.spotify.com/show/1j5wBSFYdP33Ndf9KGBfDp
+
+https://anchor.fm/bittep
+
+
