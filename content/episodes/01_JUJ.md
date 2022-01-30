@@ -1,18 +1,19 @@
 +++
 author = "Anibal Aguila"
 title = "Píldora 01"
-date = "2022-01-22"
+date = "2022-01-31"
 description = "Wakeup"
-tags = ['k8s','rancher','food']
-video = "GyWyikB2hF"
+tags = ['k8s','rancher-desktop','food','github-actions','self-study','documental']
+video = "VogPCB3dZKk"
 +++
 
 
-# Sub-title
+# >> 
 
 > ¡Breve y al grano!
 
 Detalles en la descripción ⟱
+
 
 <!--more-->
 
@@ -22,28 +23,15 @@ Detalles en la descripción ⟱
 |GitHub Treding|[Rancher Desktop](#rancher-desktop)|
 |GitHub Treding|[GitHub Actions Runner](#github-actions-runner)|
 |GitHub Treding|[Ossu Computer Science](#ossu-computer-science)|
+|YouTube|[Kubernetes: The Documentary [PART 1]](#kubernetes-the-documentary)|
 
 
 ---
 
+
 ## Tandoor Recipes
 
-Para los entuciastas de la cocina, esta aplicaci
-
-Application for managing recipes, planning meals, building shopping lists and much much more!
-
 https://rss.bittep.com/share/527dbe52b6bd10e71dbd0c6e9878d63fba08ab44
-
-```markdown
-+ Caracteristicas
-  + Opensource
-  + Potente buscador
-  + Modular Container
-  + Importar/Exportar 
-  + Plan
-  + Lista de compra
-
-```
 
 ---
 
@@ -65,8 +53,10 @@ https://rss.bittep.com/share/737f32017328719dd5fc98681f497d03fb1b0c26
 
 ---
 
+## Kubernetes The Documentary
+[PART 1]
 
+https://youtu.be/BE77h7dmoQU
 
-
-
+---
 
