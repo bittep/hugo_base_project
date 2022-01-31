@@ -19,10 +19,10 @@ Detalles en la descripción ⟱
 
 |Fuente|Enlace|
 |--|--|
-|GitHub Treding|[Tandoor Recipes](#tandoor-recipes)|
-|GitHub Treding|[Rancher Desktop](#rancher-desktop)|
-|GitHub Treding|[GitHub Actions Runner](#github-actions-runner)|
-|GitHub Treding|[Ossu Computer Science](#ossu-computer-science)|
+|GitHub Trending|[Tandoor Recipes](#tandoor-recipes)|
+|GitHub Trending|[Rancher Desktop](#rancher-desktop)|
+|GitHub Trending|[GitHub Actions Runner](#github-actions-runner)|
+|GitHub Trending|[Ossu Computer Science](#ossu-computer-science)|
 |YouTube|[Kubernetes: The Documentary [PART 1]](#kubernetes-the-documentary)|
 
 
