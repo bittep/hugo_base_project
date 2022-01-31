@@ -1,7 +1,7 @@
 +++
 author = "Anibal Aguila"
 title = "Podcast 01"
-date = "2022-01-30"
+date = "2022-01-31"
 description = "Wakeup"
 tags = ['k8s','rancher-desktop','food','github-actions','self-study','documental']
 video = "VogPCB3dZKk"
@@ -66,4 +66,6 @@ https://open.spotify.com/show/1j5wBSFYdP33Ndf9KGBfDp
 
 https://anchor.fm/bittep
 
+--- 
 
+### Especiales agradecimienos a [El Conejo Blanco](https://go.ivoox.com/sq/1417103) por su ayuda en la producción.
